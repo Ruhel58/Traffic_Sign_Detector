@@ -1,0 +1,124 @@
+item {
+    id : 1
+    name : 'traffic_green'
+}
+
+item {
+    id : 2
+    name : 'traffic_red'
+}
+
+item {
+    id : 3
+    name : 'traffic_red_amber'
+}
+
+item {
+    id : 4
+    name : 'traffic_amber'
+}
+
+item {
+    id : 5
+    name : 'roundabout_sign'
+}
+
+item {
+    id : 6
+    name : 'slippery_road'
+}
+
+item {
+    id : 7
+    name : 'one_way_left_sign'
+}
+
+item {
+    id : 8
+    name : 'one_way_right_sign'
+}
+
+item {
+    id : 9
+    name : 'one_way_ahead_sign'
+}
+
+item {
+    id : 10
+    name : 'zebra_crossing_pole'
+}
+
+item {
+    id : 11
+    name : 'no_right_turn_sign'
+}
+
+item {
+    id : 12
+    name : 'no_left_turn_sign'
+}
+
+item {
+    id : 13
+    name : 'no_u_turn_sign'
+}
+
+item {
+    id : 14
+    name : 'give_way_sign'
+}
+
+item {
+    id : 15
+    name : 'no_entry_sign'
+}
+
+item {
+    id : 16
+    name : 'speed_limit_20'
+}
+
+item {
+    id : 17
+    name : 'speed_limit_30'
+}
+
+item {
+    id : 18
+    name : 'speed_limit_40'
+}
+
+item {
+    id : 19
+    name : 'speed_limit_50'
+}
+
+item {
+    id : 20
+    name : 'speed_limit_national'
+}
+
+item {
+    id : 21
+    name : 'no_through_road_sign'
+}
+
+item {
+    id : 22
+    name : 'no_stopping_sign'
+}
+
+item {
+    id : 23
+    name : 'mini_roundabout_sign'
+}
+
+item {
+    id : 24
+    name : 'school_sign'
+}
+
+item {
+    id : 25
+    name : 'stop_sign'
+}
